@@ -1,69 +1,109 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-iHWR0dWQVWnD5ltJjKUmvOC=
+<!DOCTYPE html>
+<html lang="{{ config('app.locale') }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Laravel</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+
+    <!-- Styles -->
+    <style>
+        html, body {
+            background-color: #fff;
+            color: #636b6f;
+            font-family: sans-serif;
+            font-weight: 100;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .flex-center {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+        }
+
+        .position-ref {
+            position: relative;
+        }
+
+        .top-right {
+            position: absolute;
+            right: 10px;
+            top: 18px;
+        }
+
+        .content {
+            text-align: center;
+        }
+
+        .title {
+            font-size: 84px;
+        }
+
+        .links > a {
+            color: #636b6f;
+            padding: 0 25px;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: .1rem;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+
+        .m-b-md {
+            margin-bottom: 30px;
+        }
+
+        td, th{
+            border: 3px double black !important;
+        }
+    </style>
+</head>
+<body>
+<div class="flex-center position-ref full-height">
+    <div class="content" style="margin-top: 10px">
+        @if(session()->has('message'))
+        <div class="alert alert-info col-12 mt-2">{!! nl2br(session()->get('message')) !!}</div>
+        <br>
+        <hr>
+        <br>
+        @endif
+        <table>
+            <thead>
+            <tr>
+                <th>package name</th>
+                <th>package description</th>
+                <th>composer v</th>
+                <th>installed v</th>
+                {{--<th>latest v</th>--}}
+                <th style="min-width: 200px">actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach($packages as $package)
+            <tr>
+                <td>
+                    <a href="https://github.com/{{$package['name']}}" target="_blank">{{ $package['name'] }}</a>
+                </td>
+                <td>{!! wordwrap($package['description'], 80, '<br>') !!}</td>
+                <td>{{ $package['composer-version'] }}</td>
+                <td>{{ $package['version'] }}</td>
+                {{--<td></td>--}}
+                <td>
+                    <div class="links" style="margin: 5px">
+                        <a href="{{ route($routeName.'.index', ['action' => 'composer', 'command' => 'update', 'package' => $package['name']]) }}">update</a>
+                    </div>
+                </td>
+            </tr>
+            @endforeach
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>
